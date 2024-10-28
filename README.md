@@ -45,7 +45,6 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-
 ![Screenshot 2024-10-07 155307](https://github.com/user-attachments/assets/cbfcefb4-c2c6-411c-8b7b-5fbadca45d16)
 
 
